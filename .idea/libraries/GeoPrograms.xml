@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GeoPrograms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GeoPrograms.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
